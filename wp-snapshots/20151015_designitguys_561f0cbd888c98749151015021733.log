@@ -1,0 +1,76 @@
+********************************************************************************
+PACKAGE-LOG: 2015-10-15 02:18:22
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.32
+WORDPRESS:	4.1
+PHP INFO:	5.3.29 | SAPI: litespeed
+SERVER:		LiteSpeed 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (512M default) 
+MEMORY STACK: 14.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:16 | filtered:0 | create:16 
+FILTERED: [] 
+SQL CREATED: 20151015_designitguys_561f0cbd888c98749151015021733_database.sql 
+file size:4751181 
+SQL FILE SIZE: 4.53MB 
+SQL FILE TIME: 2015-10-15 02:18:23 
+SQL RUNTIME: 1.42 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /home/ezeckcom/public_html/designfizzy 
+ARCHIVE FILE: 20151015_designitguys_561f0cbd888c98749151015021733_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	133.4MB 
+STATS:	Dirs 883 | Files 6,582 
+SQL ADDED: 20151015_designitguys_561f0cbd888c98749151015021733_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 7465
+    [filename] => /home/ezeckcom/public_html/designfizzy/wp-snapshots/tmp/20151015_designitguys_561f0cbd888c98749151015021733_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 71.78MB 
+ARCHIVE RUNTIME: 42.93 sec. 
+MEMORY STACK: 17.5MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/home/ezeckcom/public_html/designfizzy/wp-snapshots/tmp/20151015_designitguys_561f0cbd888c98749151015021733_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 4.53MB 
+Installer File: 318KB 
+Archive File: 71.78MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 54.11 sec.
+PEAK PHP MEMORY USED: 23.5MB
+DONE PROCESSING => 20151015_designitguys 2015-10-15 02:19:16
+ 

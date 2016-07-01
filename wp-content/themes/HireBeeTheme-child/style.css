@@ -1,0 +1,108 @@
+/*
+Theme Name: HireBee Child
+Version: 1.0.0
+Theme URI: http://www.appthemes.com/themes/hirebee/
+Description: A freelance marketplace theme for WordPress.
+Author: AppThemes
+Author URI: http://www.appthemes.com/
+AppThemes ID: hirebee
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+*/
+
+
+@import url("../HireBeeTheme/style.css");
+
+.log-in, .register, .edit-profile, .recover-password, .reset-password {
+	padding-top: 0px;
+}
+
+.budget1{
+    font-weight: normal;
+    padding: 8px 5px;
+    font-size: 1.3em;
+   text-align: center;
+   display: inherit;
+    
+    overflow: hidden;
+    color: #555a62;
+    min-height: auto;
+}
+
+.project-page-layout2 .hb_cb_files li {
+    height: auto;
+}
+
+.reply{
+    display: none !important;
+}
+
+#currency121{
+	    display: none !important;
+}
+
+@media (max-width: 380px) {
+    .splash-example h1 {
+        font-size: 44px;
+    }
+    .splash-example p{
+        font-size: 15px;
+    }
+    .splash-example div{
+        margin-left: 30px;
+    }
+    .get_logo{
+        font-size: 13px;
+        padding-left: 10px;
+    padding-right: 0px;
+        text-align: center;
+        
+    }
+     .getlogo{
+        margin-right: 65px !important;
+
+     }
+   
+    
+}
+
+@media (max-width: 940px) {
+ .hrb-user ul.dropdown-menu{
+        position: initial;
+     }
+}
+
+@media (max-width: 405px) {
+  .dashboard-projects > h2{
+        font-size: 16px;
+     }
+
+     .dashboard .section-meta-info .project-price label {
+            padding-left: 2em;
+     }
+
+}
+
+label {
+     display: inline !important;
+ }
+
+@media (max-width: 750px) {
+  .dashboard .section-meta-info .project-price label:before{
+        left:0;
+     }
+
+     .dashboard .section-meta-info label, .dashboard .section-meta-info .project-notification a{
+            padding-left: 3.5em;
+
+     }
+   .dashboard .projects-section .row, .project-secondary .projects-section .row, .dashboard .order-main .row{
+    margin-top: 10px;
+   }
+   .dashboard .projects-section .row, .project-secondary .projects-section .row, .dashboard .order-main .row{
+        background-color: #fff;
+    padding: 15px;
+    margin-top: -12px;
+    margin-bottom: 18px;
+   }
+}
