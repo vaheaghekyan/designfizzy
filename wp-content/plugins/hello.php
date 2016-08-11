@@ -12,11 +12,13 @@ Version: 1.6
 Author URI: http://ma.tt/
 */
 
+
 function hello_dolly_get_lyric() {
 	/** These are the lyrics to Hello Dolly */
 	$lyrics = "Hello, Dolly
 Well, hello, Dolly
 It's so nice to have you back where you belong
+You're lookin' swell, Dolly
 You're lookin' swell, Dolly
 I can tell, Dolly
 You're still glowin', you're still crowin'
