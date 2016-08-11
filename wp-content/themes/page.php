@@ -37,4 +37,5 @@
 		<?php get_sidebar( app_template_base() ); ?>
 	</div><!-- end .sidebar-widget-wrap -->
 
+
 </div><!-- end #sidebar -->

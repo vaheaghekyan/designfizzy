@@ -8,6 +8,7 @@
 	$columns = 12 / $sidebars;
 ?>
 
+
 <!-- Footer Widgets -->
 <div id="footer">
 	<div class="row widgets-footer">
