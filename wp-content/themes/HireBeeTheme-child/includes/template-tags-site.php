@@ -209,7 +209,7 @@ function the_hrb_logo() {
 
 	} elseif( $url != '' ) {
 
-		$header_image = $url;
+		$header_image = "http://designfizzy.dev/wp-content/uploads/2015/10/cropped-DesignItGuys-12.png";
 		$text_indent = '-9999px';
 
 	} else {
