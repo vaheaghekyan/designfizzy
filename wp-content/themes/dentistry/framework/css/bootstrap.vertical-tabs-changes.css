@@ -1,0 +1,100 @@
+/*!
+ * bootstrap-vertical-tabs - v1.2.1
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2014-11-07
+ * Copyright (c) 2014 İsmail Demirbilek
+ * License: MIT
+ */
+ 
+h1{ font-size:24px;}
+.tabs-left, .tabs-right {
+  border-bottom: none;
+  padding-top: 2px;
+}
+.tabs-left {
+  border-right: 1px solid #ddd;
+}
+.tabs-right {
+  border-left: 1px solid #ddd;
+}
+.tabs-left>li, .tabs-right>li {
+  float: none;
+  margin-bottom: 2px;
+}
+.tabs-left>li {
+  margin-right: -1px;
+}
+.tabs-right>li {
+  margin-left: -1px;
+}
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+  border-bottom-color: #ddd;
+  border-right-color: transparent;
+}
+
+.tabs-right>li.active>a,
+.tabs-right>li.active>a:hover,
+.tabs-right>li.active>a:focus {
+  border-bottom: 1px solid #ddd;
+  border-left-color: transparent;
+}
+.tabs-left>li>a {
+  border-radius: 0px;
+  margin-right: 0;
+  display:block;
+}
+.tabs-right>li>a {
+  border-radius: 0 4px 4px 0;
+  margin-right: 0;
+}
+.page-header{padding:30px; background-color:#1b93c7; margin-bottom:0px;   border-radius: 4px 4px 0px 0px;} 
+.page-header h1{ color:#FFF;}
+.page-header small{ font-size:12px; color:#FFF;}
+.tab-content{  /* padding:40px 10px; */ }
+
+
+#to-wrapper{}	
+.to-wrapper{
+    background-color: #fff;
+  
+    margin-left: 0px;
+    margin-right: 0px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+}
+.to-wrapper .col-md-2{padding-right:0px; padding-left: 0px;}
+.to-wrapper .col-md-10{padding-left:0px;}
+.to-wrapper .to-content{  background: #fff;
+  padding: 20px 40px;  border-left: 1px solid #ddd;}
+.to-wrapper .to-content p{color:#666;}
+  
+.to-section{ margin-bottom:30px; border-bottom:1px solid #ddd;  padding:0px 0px 20px 0px;}
+
+#logo_upload {
+  border-radius: 25px;
+  margin: 5px;
+}
+#remove {
+  background: none;
+  border: none;
+  color: red;
+}
+
+.wp-color-result {
+  height: 23px;
+}
+
+.textarea_control textarea {
+  resize: none;
+  height: 129px;
+}
+
+a {
+	text-decoration:none;
+}
+a :hover {
+	text-decoration:none;
+}

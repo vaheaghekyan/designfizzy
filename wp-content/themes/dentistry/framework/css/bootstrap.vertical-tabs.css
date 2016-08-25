@@ -1,0 +1,98 @@
+/*!
+ * bootstrap-vertical-tabs - v1.2.1
+ * https://dbtek.github.io/bootstrap-vertical-tabs
+ * 2014-11-07
+ * Copyright (c) 2014 İsmail Demirbilek
+ * License: MIT
+ */
+ 
+h1{ font-size:24px;}
+.tabs-left{
+  border-bottom: none;
+  padding-top: 0px;
+ 
+}
+.tabs-left {
+  
+}
+
+.tabs-left>li {
+  float: none;
+  margin-bottom: 0px;
+}
+.tabs-left>li {
+  margin-right: -1px;
+}
+
+.tabs-left>li.active>a,
+.tabs-left>li.active>a:hover,
+.tabs-left>li.active>a:focus {
+  border-bottom-color: #ddd;
+  border-right-color: transparent;
+  border-left: none;
+  color:#1b93c7;
+}
+
+
+.tabs-left>li>a {
+  border-radius: 0px;
+  margin-right: 0;
+  display:block;
+  border-bottom: 1px solid #ddd;
+  color:#666;
+  font-weight:400;
+}
+
+.page-header{padding:30px; background-color:#1b93c7; margin-bottom:0px;   border-radius: 4px 4px 0px 0px; border-bottom:2px solid #067cb0;} 
+.page-header h1{ color:#FFF;}
+.page-header small{ font-size:12px; color:#FFF;}
+
+
+
+#to-wrapper{}	
+.to-wrapper{
+    background-color: #fff;
+	margin-left: 0px;
+    margin-right: 0px;
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+	height:100%;
+}
+.to-wrapper .col-md-2{padding-right:0px; padding-left: 0px;}
+.to-wrapper .col-md-10{padding-left:0px;}
+.to-wrapper .to-content{  background: #fff;
+  padding: 20px 40px;}
+.to-wrapper .to-content p{color:#666;}
+ .sidebar{  
+  
+  border-right: 1px solid #ddd;
+ 
+background-color:#f8f8f8;}
+.to-section{ margin-bottom:30px; border-bottom:1px solid #ddd;  padding:0px 0px 20px 0px;}
+
+#logo_upload {
+  border-radius: 25px;
+  margin: 5px;
+}
+#remove {
+  background: none;
+  border: none;
+  color: red;
+}
+
+.wp-color-result {
+  height: 23px;
+}
+input.form-control{border-radius:0px;}
+.textarea_control textarea {
+  resize: none;
+  height: 129px;
+}
+
+a {
+	text-decoration:none;
+}
+a :hover {
+	text-decoration:none;
+}
